@@ -1,5 +1,3 @@
- 
-
 
 > Открыть эту страницу в [https://meruert907.github.io/pythongame/](https://meruert907.github.io/pythongame/)
 
